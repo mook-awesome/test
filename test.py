@@ -1,7 +1,7 @@
 import numpy as np
 
 def test_function():
-    print('Test function3')
+    print('Test function4')
     
 def test_function5():
     print('Third test function')
