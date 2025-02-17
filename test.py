@@ -3,8 +3,8 @@ import numpy as np
 def test_function():
     print('Test function3')
     
-def test_function2():
-    print('Second test function')
+def test_function3():
+    print('Third test function')
 
     
 if __name__ == '__main__':
