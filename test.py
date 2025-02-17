@@ -1,7 +1,7 @@
 import numpy as np
 
 def test_function():
-    print('Test function2')
+    print('Test function3')
     
     
 if __name__ == '__main__':
